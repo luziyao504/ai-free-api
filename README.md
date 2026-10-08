@@ -7,4 +7,5 @@
 | --- | --- | --- | --- | --- | --- |
 | 1 | agentrouter | [agentrouter](https://agentrouter.org/register?aff=KYHj) | GitHub; 注册赠送; 可能无法注册 | GitHub登录，送100刀，可能已无法注册 |  |
 | 2 | New API | [New API](https://xxs.l.cd/sign-up?aff=UAPy) | 注册赠送; DeepSeek | 注册送 50，只有 DeepSeek 可用 |  |
+| 19 | 幻城 | [幻城](https://api.iamhc.cn/register?aff=Lkp3) | 国模; 无限额度 | 无限额度，有很多国模 |  |
 
