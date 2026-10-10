@@ -10,4 +10,5 @@
 | 3 | 幻城 | [幻城](https://api.iamhc.cn/register?aff=Lkp3) | 国模; 无限额度 | 无限额度，有很多国模 |  |
 | 4 | 云舟 | [云舟](https://cli.999554.xyz/register?aff=aAPo) | DeepSeek; 免费 | 【0531新增】DeepSeek v4 flash免费，在deepseek分组中 |  |
 | 5 | 小白code | [小白code](https://token.dialoguedui.com/register?aff=75VEAVE7SVKD) | 签到; 生图; 活动取消 | 【0527】注册活动暂时已经取消 |  |
+| 6 | UU | [UU](https://api.uu6.top/sign-up?aff=3SHj) | 签到; 稳定; Claude; 注册赠送 | 注册10刀，有Claude |  |
 
